@@ -1,0 +1,8 @@
+{
+    "name": "usermanager-service",
+    "version": "1.0.278",
+    "private": false,
+    "environment": "production",
+    "build_id": 544,
+    "allow_public_access": true
+}
